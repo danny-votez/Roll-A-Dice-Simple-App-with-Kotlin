@@ -1,5 +1,6 @@
 ### Roll A Dice Simple App with Kotlin
-#### Pre-requests
+#### Pre-requesites
 - Android Studio installation
-- Knowledge in usin Android Studio, especially Layout Editor
+- Knowledge in using Android Studio, especially Layout Editor
 - Some basics in Kotlin and programming principles
+- Working emulator
