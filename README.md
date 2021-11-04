@@ -98,3 +98,4 @@ class Dice (val numSides: Int) {
 }
 </code>
 </pre>
+#### Sample Screens
