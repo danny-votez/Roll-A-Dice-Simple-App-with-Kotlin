@@ -99,3 +99,5 @@ class Dice (val numSides: Int) {
 </code>
 </pre>
 #### Sample Screens
+##### Initial
+<img src="https://user-images.githubusercontent.com/77758884/140279404-af2cdbfc-b3bc-4c98-8fb0-8924aa09de68.png" width=200px />
