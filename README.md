@@ -4,8 +4,7 @@
 - Knowledge in using Android Studio, especially Layout Editor
 - Some basics in Kotlin and programming principles
 - Working emulator
-
-
+#### Working Script
 <pre>
 <code>
 /*
