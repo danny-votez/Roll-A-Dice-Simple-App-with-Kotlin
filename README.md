@@ -98,10 +98,13 @@ class Dice (val numSides: Int) {
 }
 </code>
 </pre>
-#### Sample Screens
-<div align=center>
+#### Sample Emulator Screens
 ##### Initial
-<img alt="sample image" src="https://user-images.githubusercontent.com/77758884/141791550-a4e1e5ed-fdfc-47da-86e0-58dc2037cb3c.png" width=210px />
+<img src="https://user-images.githubusercontent.com/77758884/141791550-a4e1e5ed-fdfc-47da-86e0-58dc2037cb3c.png" width=200px />
 
-##### Sample Emulator Screens: 1st, 2nd and 3rd Clicks
-<img src="https://user-images.githubusercontent.com/77758884/141791259-1e760833-b995-45c9-8b2c-b3b3d2556fd4.png" width=210px /> <img src="https://user-images.githubusercontent.com/77758884/141791094-eb5a35c2-16b4-4bdc-ad34-3f03795c0bf4.png" width=210px /> <img src="https://user-images.githubusercontent.com/77758884/141791901-c505aef1-0e5a-4321-b0be-bf7dadc553b6.png" width=210px>
+##### Sample Screens: 1st, 2nd and 3rd Clicks
+<div align=center>
+
+<img src="https://user-images.githubusercontent.com/77758884/141791259-1e760833-b995-45c9-8b2c-b3b3d2556fd4.png" width=200px /> <img src="https://user-images.githubusercontent.com/77758884/141791094-eb5a35c2-16b4-4bdc-ad34-3f03795c0bf4.png" width=200px /> <img src="https://user-images.githubusercontent.com/77758884/141791901-c505aef1-0e5a-4321-b0be-bf7dadc553b6.png" width=200px>
+
+</div>
