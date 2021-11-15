@@ -103,4 +103,5 @@ class Dice (val numSides: Int) {
 <img alt="sample image" src="https://user-images.githubusercontent.com/77758884/140279404-af2cdbfc-b3bc-4c98-8fb0-8924aa09de68.png" width=200px />
 
 ##### First and Second OnClicks
-<img src="https://user-images.githubusercontent.com/77758884/141790515-af477525-4af5-4e3d-b543-f6db3923b5c4.png" width=200px /> <img src="https://user-images.githubusercontent.com/77758884/141790660-c9ec4284-9065-49a5-bd3a-e6f748af06dd.png" width=200px />
+<img src="https://user-images.githubusercontent.com/77758884/141790515-af477525-4af5-4e3d-b543-f6db3923b5c4.png" width=200px /> <img src="![image](https://user-images.githubusercontent.com/77758884/141791094-eb5a35c2-16b4-4bdc-ad34-3f03795c0bf4.png)
+" width=200px />
