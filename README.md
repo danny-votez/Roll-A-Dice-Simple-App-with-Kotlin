@@ -100,7 +100,7 @@ class Dice (val numSides: Int) {
 </pre>
 #### Sample Screens
 ##### Initial
-<img alt="sample image" src="https://user-images.githubusercontent.com/77758884/140279404-af2cdbfc-b3bc-4c98-8fb0-8924aa09de68.png" width=200px />
+<img alt="sample image" src="https://user-images.githubusercontent.com/77758884/141791550-a4e1e5ed-fdfc-47da-86e0-58dc2037cb3c.png" width=200px />
 
 ##### First and Second OnClicks
 <img src="https://user-images.githubusercontent.com/77758884/141791259-1e760833-b995-45c9-8b2c-b3b3d2556fd4.png" width=200px /> <img src="https://user-images.githubusercontent.com/77758884/141791094-eb5a35c2-16b4-4bdc-ad34-3f03795c0bf4.png" width=200px />
