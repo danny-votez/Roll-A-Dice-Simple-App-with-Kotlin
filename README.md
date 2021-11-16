@@ -108,3 +108,9 @@ class Dice (val numSides: Int) {
 <img src="https://user-images.githubusercontent.com/77758884/141791259-1e760833-b995-45c9-8b2c-b3b3d2556fd4.png" width=200px /> <img src="https://user-images.githubusercontent.com/77758884/141791094-eb5a35c2-16b4-4bdc-ad34-3f03795c0bf4.png" width=200px /> <img src="https://user-images.githubusercontent.com/77758884/141791901-c505aef1-0e5a-4321-b0be-bf7dadc553b6.png" width=200px>
 
 </div>
+#### Notes
+
+-In the illustration, the displays are based on random value
+
+
+
