@@ -110,7 +110,9 @@ class Dice (val numSides: Int) {
 </div>
 #### Notes
 
--In the illustration, the displays are based on random value
+- In the illustration, the displays are based on random value
+- First range is 6 sided dice, second is 12-sided dice and 3rd is 120-sided dice
+- Hence, displayed values vary relative to the parameter specified in the roll method
 
 
 
